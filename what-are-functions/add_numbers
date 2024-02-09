@@ -12,7 +12,7 @@ check_even () {
 }
 
 
-number=2344
+number=25
 
 check_even $number
 echo $mod
